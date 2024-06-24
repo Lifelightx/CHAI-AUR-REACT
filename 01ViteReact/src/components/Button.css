@@ -1,0 +1,19 @@
+.btn{
+    height: 40px;
+    width: 80px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    
+    }
+#greenBtn{
+    background-color: rgb(0, 226, 120);
+
+}
+#redBtn{
+    background-color: rgb(255, 0, 68);
+}
+#heading{
+    color: red;
+}

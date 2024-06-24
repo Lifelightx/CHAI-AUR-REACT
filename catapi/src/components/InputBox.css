@@ -1,0 +1,15 @@
+#inp{
+    padding: 20px;
+    width: 300px;
+    outline: none;
+    border: 2px solid rgb(0, 252, 235);
+    background-color: transparent;
+    border-radius: 10px;
+    
+}
+
+#para{
+    position: absolute;
+    font-size: xx-large;
+    color: rgb(0, 204, 255);
+}
